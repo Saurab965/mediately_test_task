@@ -31,3 +31,13 @@
 
 en:
   hello: "Hello world"
+
+  api:
+    error: "%{exception_class}: %{exception_cause}"
+    branch_error: 'Branch already exist'
+
+  tool:
+    create: 'Tool will create soon!'
+    update: 'Tool will update soon!'
+
+  error: 'Something went wrong!'
