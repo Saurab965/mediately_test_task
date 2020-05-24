@@ -45,6 +45,8 @@ gem 'ruby-lokalise-api'
 
 gem 'octokit'
 
+gem 'github_webhook'
+
 gem 'sidekiq'
 
 group :development, :test do
